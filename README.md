@@ -1,2 +1,3 @@
-# SMMCL
-[arXiv 2023] Understanding Dark Scenes by Contrasting Multi-Modal Observations
+# MMSR
+PyTorch implementation of "Understanding Dark Scenes by Contrasting Multi-Modal Observations"  
+[paper, supp] [arXiv]
