@@ -1,10 +1,10 @@
 # SMMCL
 PyTorch implementation of "Understanding Dark Scenes by Contrasting Multi-Modal Observations"  
-[paper, supp] [arXiv]
+[paper, supp] [[arXiv](https://arxiv.org/abs/2308.12320)]
 
 
 ## Updates
-**[2023/08/23]** Paper will be available on arXiv soon. For any questions or discussions, reach Xiaoyu Dong at dong@ms.k.u-tokyo.ac.jp.
+**[2023/08/23]** Paper is available on [arXiv](https://arxiv.org/abs/2308.12320). For any questions or discussions, reach Xiaoyu Dong at dong@ms.k.u-tokyo.ac.jp.
 
 
 ## Abstract
