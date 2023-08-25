@@ -13,7 +13,7 @@ Understanding dark scenes based on multi-modal image data is challenging, as bot
 
 <p align="center"> <img src="figs/figi_result_low.png" width="75%"> </p>
 
-<p align="center"> <img src="figs/figii_result_night.png" width="75%"> </p>
+<p align="center"> <img src="figs/figii_result_night.png" width="74.5%"> </p>
 
 <p align="center"> <img src="figs/figiii_result_normal.png" width="88%"> </p>
 
