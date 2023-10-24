@@ -20,10 +20,10 @@ Understanding dark scenes based on multi-modal image data is challenging, as bot
 
 ## Citation
 ```
-@InProceedings{Dong2023SMMCL,
+@InProceedings{Dong2024SMMCL,
   author    = {Dong, Xiaoyu and Yokoya, Naoto},
   title     = {Understanding Dark Scenes by Contrasting Multi-Modal Observations},
-  booktitle = {arXiv preprint arXiv:2308.12320},
-  year      = {2023}
+  booktitle = {WACV},
+  year      = {2024}
 }
 ```
