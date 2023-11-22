@@ -1,6 +1,6 @@
 # SMMCL
 PyTorch implementation of "Understanding Dark Scenes by Contrasting Multi-Modal Observations"  
-[WACV paper, supp] [[arXiv](https://arxiv.org/abs/2308.12320)]
+[WACV paper, supp] [[arXiv paper](https://arxiv.org/abs/2308.12320), supp]
 
 
 ## Updates
