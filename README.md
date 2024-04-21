@@ -5,7 +5,8 @@ PyTorch implementation of "Understanding Dark Scenes by Contrasting Multi-Modal 
 
 ## Updates
 **[2023/10/24]** Paper was accepted by WACV2024. We thank anonymous reviewers from ICCV2023 and WACV2024 for their suggestions to our paper. See you in Hawaii.   
-**[2024/01/05]** Camera-ready version is available online. Code will be released soon.
+**[2024/01/05]** Camera-ready version is available online. 
+**[2024/04/22]** Code will be released today.
 
 
 ## Abstract
