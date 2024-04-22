@@ -35,15 +35,15 @@ python train.py -d 0-3
 Quick Test: Download our pretrained [weights] and put them in /SMMCL_XXX/log_XXX_mscan_b/checkpoint.
 ```bash
 cd /path/to/SMMCL_LLRGBD
-python eval.py -d 0-3 -e 500 #-p results
+python eval.py -d 0-3 -e 500 
 ```
 ```bash
 cd /path/to/SMMCL_MFNet
-python eval.py -d 0-3 -e 300 #-p results
+python eval.py -d 0-3 -e 300 
 ```
 ```bash
 cd /path/to/SMMCL_NYU
-python eval.py -d 0-3 -e 600 #-p results
+python eval.py -d 0-3 -e 600
 ```
 
 ### Acknowledgement
