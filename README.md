@@ -22,7 +22,7 @@ Understanding dark scenes based on multi-modal image data is challenging, as bot
 
 ### Preparation
 - Download the [datasets](https://drive.google.com/drive/folders/19p2zjc0UPnKZh06D5tNsILLB1aJvjf1l?usp=sharing) and put them in /datasets.  
-- Dependencies: Python 3.7+, PyTorch 1.7.0+, CUDA 10.2.
+- Dependencies: Python 3.10.6, Torch 1.12.1, CUDA 10.2.
 
 ### Train
 Download the pretrained weight of [SegNext-B](https://cloud.tsinghua.edu.cn/d/c15b25a6745946618462/) and put it in /pretrained/segnext.  
