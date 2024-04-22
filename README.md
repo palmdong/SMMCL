@@ -21,9 +21,9 @@ Understanding dark scenes based on multi-modal image data is challenging, as bot
 
 ## Code
 
-### Requirements
-Link to datasets.  
-Dependencies.
+### Preparation
+- Link to datasets.  
+- Dependencies.
 
 ### Train
 Link to pretrained segnext.  
