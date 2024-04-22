@@ -32,7 +32,7 @@ python train.py -d 0-3
 ```
 
 ### Test 
-Quick Test: Download our pretrained [weights](https://drive.google.com/drive/folders/1wSX5vLr78_rfDV6-lCqAEFScMWqAjKkv?usp=sharing) and put them in /SMMCL_XXX/log_XXX_mscan_b/checkpoint.
+Quick Start: Download our pretrained [weights](https://drive.google.com/drive/folders/1wSX5vLr78_rfDV6-lCqAEFScMWqAjKkv?usp=sharing) and put them in /SMMCL_XXX/log_XXX_mscan_b/checkpoint.
 ```bash
 cd /path/to/SMMCL_LLRGBD
 python eval.py -d 0-3 -e 500 
