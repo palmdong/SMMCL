@@ -1,0 +1,16 @@
+Model: /home/palmdong/mmcl/240422_SMMCL/log_LLRGBD_mscan_b/checkpoint/epoch-500.pth
+1 void  	0.000%
+2 bed   	71.998%
+3 books 	78.942%
+4 ceiling	92.233%
+5 chair 	47.525%
+6 floor 	96.711%
+7 furniture	67.205%
+8 objects	64.091%
+9 painting	88.437%
+10 sofa 	29.506%
+11 table	49.002%
+12 tv   	31.232%
+13 wall 	93.788%
+14 window	83.810%
+----------     mean_IoU	63.891%	mean_IU_wo_background	68.806%	freq_IoU	88.327%	mean_pixel_acc	73.100%	pixel_acc	93.252%
