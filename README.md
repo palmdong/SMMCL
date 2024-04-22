@@ -32,15 +32,11 @@ python train.py -d 0-3
 ```
 
 ### Test 
+Link to pretrained weights/
 ```bash
 cd /path/to/SMMCL_LLRGBD 
 python eval.py -d 0-3 -e 500 #-p results
 ```
-
-### Results
-Results in paper.  
-Link to pretrained models.  
-Note.
 
 ### Acknowledgement
 Our code is built based on the repositories of [CMX](https://github.com/huaaaliu/RGBX_Semantic_Segmentation) and [MSCSCL](https://github.com/RViMLab/ECCV2022-multi-scale-and-cross-scale-contrastive-segmentation/tree/main). We thank the authors for their efforts.
