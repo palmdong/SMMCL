@@ -32,11 +32,19 @@ python train.py -d 0-3
 ```
 
 ### Test 
+Quick Test: Download our pretrained [weights] and put them in SMMCL_XXX/log_XXX_mscan_b/checkpoint.
 ```bash
-cd /path/to/SMMCL_XXX
+cd /path/to/SMMCL_LLRGBD
 python eval.py -d 0-3 -e 500 #-p results
 ```
-Quick Test: Download our pretrained [weights] and put them in SMMCL_XXX/log_XXX_mscan_b/checkpoint.
+```bash
+cd /path/to/SMMCL_MFNet
+python eval.py -d 0-3 -e 300 #-p results
+```
+```bash
+cd /path/to/SMMCL_NYU
+python eval.py -d 0-3 -e 600 #-p results
+```
 
 ### Acknowledgement
 Our code is built based on the repositories of [CMX](https://github.com/huaaaliu/RGBX_Semantic_Segmentation) and [MSCSCL](https://github.com/RViMLab/ECCV2022-multi-scale-and-cross-scale-contrastive-segmentation/tree/main). We thank the authors for their efforts.
