@@ -26,17 +26,17 @@ Link to datasets.
 Dependencies.
 
 ### Train
-Link to pretrained segnext.
-Script.  
-Note (Fo, 1000).  
+Link to pretrained segnext.  
 ```bash
 cd /path/to/SMMCL_LLRGBD 
 python train.py -d 0-3 
 ```
 
 ### Test 
-Script.  
-Note (Dy).
+```bash
+cd /path/to/SMMCL_LLRGBD 
+python eval.py -d 0-3 -e 500 #-p results
+```
 
 ### Results
 Results in paper.  
