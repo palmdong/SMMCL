@@ -27,7 +27,7 @@ Understanding dark scenes based on multi-modal image data is challenging, as bot
 ### Train
 Download the pretrained weight of [SegNext-B](https://cloud.tsinghua.edu.cn/d/c15b25a6745946618462/) and put it in /pretrained/segnext.  
 ```bash
-cd /path/to/SMMCL_XXX 
+cd /path/to/SMMCL_LLRGBD or /path/to/SMMCL_MFNet or /path/to/SMMCL_NYU 
 python train.py -d 0-3 
 ```
 
