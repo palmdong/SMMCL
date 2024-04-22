@@ -28,7 +28,11 @@ Dependencies.
 ### Train
 Link to pretrained segnext.
 Script.  
-Note (Fo, 1000).
+Note (Fo, 1000).  
+```bash
+cd  
+python
+```
 
 ### Test 
 Script.  
