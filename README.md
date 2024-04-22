@@ -21,7 +21,7 @@ Understanding dark scenes based on multi-modal image data is challenging, as bot
 ## Code
 
 ### Preparation
-- Link to datasets.  
+- Download the [datasets] and put them in /datasets.  
 - Dependencies.
 
 ### Train
