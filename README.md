@@ -34,8 +34,9 @@ Script.
 Note (Dy).
 
 ### Results
-Results.  
-Link to pretrained models. 
+Results in paper.  
+Link to pretrained models.  
+Note.
 
 ### Acknowledgement
 
