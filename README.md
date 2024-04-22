@@ -30,8 +30,8 @@ Link to pretrained segnext.
 Script.  
 Note (Fo, 1000).  
 ```bash
-cd  
-python
+cd /path/to/SMMCL_LLRGBD 
+python train.py -d 0-3 
 ```
 
 ### Test 
