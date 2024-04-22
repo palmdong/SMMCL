@@ -25,7 +25,7 @@ Understanding dark scenes based on multi-modal image data is challenging, as bot
 - Dependencies.
 
 ### Train
-Link to pretrained segnext.  
+Download the pretrained weight of SegNext-B and place it to path/to/pretrained. 
 ```bash
 cd /path/to/SMMCL_LLRGBD 
 python train.py -d 0-3 
