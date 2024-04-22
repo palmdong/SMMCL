@@ -44,7 +44,7 @@ Link to pretrained models.
 Note.
 
 ### Acknowledgement
-Our code is built based on the repositories of CMX and MSCSCL. We thank the authors for their efforts.
+Our code is built based on the repositories of CMX and [MSCSCL](https://github.com/RViMLab/ECCV2022-multi-scale-and-cross-scale-contrastive-segmentation/tree/main). We thank the authors for their efforts.
 
 ## Citation
 ```
