@@ -25,18 +25,18 @@ Understanding dark scenes based on multi-modal image data is challenging, as bot
 - Dependencies.
 
 ### Train
-Download the pretrained weight of [SegNext-B](https://cloud.tsinghua.edu.cn/d/c15b25a6745946618462/) and place it to /pretrained/segnext.  
+Download the pretrained weight of [SegNext-B](https://cloud.tsinghua.edu.cn/d/c15b25a6745946618462/) and put it in /pretrained/segnext.  
 ```bash
-cd /path/to/SMMCL_LLRGBD 
+cd /path/to/SMMCL_XXX 
 python train.py -d 0-3 
 ```
 
 ### Test 
-Link to pretrained weights/
 ```bash
-cd /path/to/SMMCL_LLRGBD 
+cd /path/to/SMMCL_XXX
 python eval.py -d 0-3 -e 500 #-p results
 ```
+Quick Test: Download our pretrained [weights] and put them in SMMCL_XXX/log_XXX_mscan_b/checkpoint.
 
 ### Acknowledgement
 Our code is built based on the repositories of [CMX](https://github.com/huaaaliu/RGBX_Semantic_Segmentation) and [MSCSCL](https://github.com/RViMLab/ECCV2022-multi-scale-and-cross-scale-contrastive-segmentation/tree/main). We thank the authors for their efforts.
