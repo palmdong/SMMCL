@@ -22,16 +22,16 @@ Understanding dark scenes based on multi-modal image data is challenging, as bot
 ## Code
 
 ### Requirements
-Link to datasets.
+Link to datasets.  
 Dependencies.
 
 ### Train
-Script.
+Script.  
 Note (Fo, 1000).
 
 ### Test
-Link to pretrained models.
-Script.
+Link to pretrained models.  
+Script.  
 Note (Dy).
 
 ### Acknowledgement
