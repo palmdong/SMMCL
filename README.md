@@ -26,6 +26,7 @@ Link to datasets.
 Dependencies.
 
 ### Train
+Link to pretrained segnext.
 Script.  
 Note (Fo, 1000).
 
