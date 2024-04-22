@@ -44,6 +44,7 @@ Link to pretrained models.
 Note.
 
 ### Acknowledgement
+Our code is built based on the repositories of CMX and MSCSCL. We thank the authors for their efforts.
 
 ## Citation
 ```
