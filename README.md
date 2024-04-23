@@ -48,7 +48,7 @@ python eval.py -d 0-3 -e 600
 ```
 
 ### Acknowledgement
-Our code is built based on the repositories of [CMX](https://github.com/huaaaliu/RGBX_Semantic_Segmentation) and [MSCSCL](https://github.com/RViMLab/ECCV2022-multi-scale-and-cross-scale-contrastive-segmentation/tree/main). We thank the authors for their efforts.
+Our code was built based on the repositories of [CMX](https://github.com/huaaaliu/RGBX_Semantic_Segmentation) and [MSCSCL](https://github.com/RViMLab/ECCV2022-multi-scale-and-cross-scale-contrastive-segmentation/tree/main). We thank the authors for their efforts.
 
 ## Citation
 ```
