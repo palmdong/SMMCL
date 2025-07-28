@@ -53,7 +53,7 @@ Our code was built based on the repositories of [CMX](https://github.com/huaaali
 
 ## Citation
 ```
-@InProceedings{Dong2024SMMCL,
+@InProceedings{SMMCL_2024_WACV,
   author    = {Dong, Xiaoyu and Yokoya, Naoto},
   title     = {Understanding Dark Scenes by Contrasting Multi-Modal Observations},
   booktitle = {WACV},
