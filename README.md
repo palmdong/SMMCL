@@ -7,15 +7,6 @@ PyTorch implementation of "Understanding Dark Scenes by Contrasting Multi-Modal 
 **[2023/10/24]** Our paper was accepted to WACV 2024. See you in Hawaii.   
 **[2024/04/22]** The code for low-light indoor scenes (the LLRGBD dataset) has been uploaded.  
 **[2024/08/02]** The supplementary material has been updated. Previously there were errors in Figures III, V, and VI.
- 
-
-## Overview
-
-<p align="center"> <img src="figs/figi_result_low.png" width="75%"> </p>
-
-<p align="center"> <img src="figs/figii_result_night.png" width="74.5%"> </p>
-
-<p align="center"> <img src="figs/figiii_result_normal.png" width="88%"> </p>
 
 ## Preparation
 - Python 3.10.6, Torch 1.12.1, CUDA 10.2, requirements.txt  
