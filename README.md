@@ -4,7 +4,7 @@ PyTorch implementation of "Understanding Dark Scenes by Contrasting Multi-Modal 
 
 
 ## Updates
-**[2024/08/02]** The supplementary material has been updated. Previously there were errors in Figures III, V, and VI.
+**[2024/08/02]** The supplementary material has been updated. Previously there were errors in Figures III, V, and VI.  
 **[2024/04/22]** The source code for the low-light indoor setting (the LLRGBD dataset) has been released.  
 **[2023/10/24]** Our paper has been accepted to WACV 2024. See you in Hawaii, USA.  
 
